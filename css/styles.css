@@ -1,0 +1,16 @@
+.firstbg{
+        height: 100vh;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)) , url("../images/dark1.jpg"); /* The image used */
+        background-position: center; /* Center the image */
+        background-repeat: no-repeat; /* Do not repeat the image */
+        background-size: cover; /* Resize the background image to cover the entire container */ 
+        background-attachment: fixed;
+}
+
+.navbg{
+    background-color: rgba(77, 72, 72, 0.644);
+}
+
+.homebt{
+    background-color: rgba(167, 161, 161, 0.349);
+}
